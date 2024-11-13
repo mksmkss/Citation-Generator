@@ -1,7 +1,7 @@
 import customtkinter as ctk
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse
+
 import datetime
 import re
 import pyperclip
