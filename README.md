@@ -84,8 +84,5 @@ pip install customtkinter requests beautifulsoup4 pyperclip
 - 基本機能の実装
 - リアルタイム生成機能の追加
 
-## 作者
-鈴木柾孝
-
 ## ライセンス
 MIT License
