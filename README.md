@@ -78,6 +78,10 @@ Citation Generatorは、WebページのURLや手動入力から BibTeX形式と�
 pip install customtkinter requests beautifulsoup4 pyperclip
 ```
 
+## お願い
+追加して欲しい機能やバグの報告は、[Issues](https://github.com/mksmkss/Citation-Generator/issues)にてお願いします。
+たくさんのフィードバックをお待ちしております。
+
 ## 更新履歴
 ### Version 1.0.0
 - 初回リリース
